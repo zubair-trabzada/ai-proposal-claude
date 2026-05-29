@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" width="900" height="320" role="img" aria-label="AI Proposal Team">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="accentBar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#0369a1"/>
+    </linearGradient>
+    <style>
+      .title { font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 800; font-size: 38px; letter-spacing: 1px; fill: #f8fafc; }
+      .subtitle { font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 700; font-size: 24px; letter-spacing: 2px; fill: #0ea5e9; }
+      .tagline { font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 500; font-size: 14px; fill: #cbd5e1; letter-spacing: 0.3px; }
+      .badge { font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 700; font-size: 11px; fill: #0f172a; letter-spacing: 0.5px; }
+      .feature { font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 500; font-size: 13px; fill: #e8eef7; }
+      .cmd { font-family: 'SF Mono', Menlo, Consolas, monospace; font-weight: 600; font-size: 11px; fill: #38bdf8; }
+      .footer { font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 500; font-size: 11px; fill: #8aa0bf; letter-spacing: 0.4px; }
+    </style>
+  </defs>
+
+  <rect width="900" height="320" fill="url(#bg)"/>
+
+  <g opacity="0.05" stroke="#38bdf8" stroke-width="1">
+    <line x1="0" y1="80" x2="900" y2="80"/>
+    <line x1="0" y1="160" x2="900" y2="160"/>
+    <line x1="0" y1="240" x2="900" y2="240"/>
+  </g>
+
+  <!-- LEFT COLUMN -->
+  <rect x="32" y="34" width="5" height="120" rx="2.5" fill="url(#accentBar)"/>
+
+  <text x="54" y="70" class="title">AI PROPOSAL</text>
+  <text x="54" y="102" class="subtitle">TEAM</text>
+
+  <text x="54" y="130" class="tagline">Research, price, and write winning proposals — from one command</text>
+
+  <!-- Stat badges -->
+  <g>
+    <rect x="54" y="150" width="96" height="26" rx="13" fill="#0ea5e9"/>
+    <text x="102" y="167" class="badge" text-anchor="middle">14 SKILLS</text>
+
+    <rect x="158" y="150" width="96" height="26" rx="13" fill="#eab308"/>
+    <text x="206" y="167" class="badge" text-anchor="middle">5 AGENTS</text>
+
+    <rect x="262" y="150" width="116" height="26" rx="13" fill="#f8fafc"/>
+    <text x="320" y="167" class="badge" text-anchor="middle">PDF PROPOSALS</text>
+  </g>
+
+  <!-- RIGHT COLUMN: feature checklist -->
+  <g transform="translate(620, 50)">
+    <text x="120" y="0" class="feature" font-weight="700" fill="#0ea5e9" font-size="13" letter-spacing="0.8" text-anchor="middle">WHAT IT DOES</text>
+
+    <g transform="translate(0, 28)">
+      <circle cx="6" cy="6" r="4" fill="#0ea5e9"/>
+      <text x="20" y="10" class="feature">Client &amp; Market Research</text>
+    </g>
+    <g transform="translate(0, 52)">
+      <circle cx="6" cy="6" r="4" fill="#0ea5e9"/>
+      <text x="20" y="10" class="feature">3-Tier Pricing + ROI</text>
+    </g>
+    <g transform="translate(0, 76)">
+      <circle cx="6" cy="6" r="4" fill="#0ea5e9"/>
+      <text x="20" y="10" class="feature">Scope &amp; Deliverables</text>
+    </g>
+    <g transform="translate(0, 100)">
+      <circle cx="6" cy="6" r="4" fill="#0ea5e9"/>
+      <text x="20" y="10" class="feature">Objection Pre-Handling</text>
+    </g>
+    <g transform="translate(0, 124)">
+      <circle cx="6" cy="6" r="4" fill="#0ea5e9"/>
+      <text x="20" y="10" class="feature">Close Plan &amp; Follow-Up</text>
+    </g>
+  </g>
+
+  <line x1="54" y1="200" x2="846" y2="200" stroke="#2a3a55" stroke-width="1"/>
+
+  <!-- Command previews -->
+  <g transform="translate(54, 222)">
+    <rect x="0" y="0" width="250" height="22" rx="4" fill="#142036" stroke="#2a3a55"/>
+    <text x="10" y="15" class="cmd">/proposal build &#8594; full proposal</text>
+
+    <rect x="266" y="0" width="250" height="22" rx="4" fill="#142036" stroke="#2a3a55"/>
+    <text x="276" y="15" class="cmd">/proposal pricing &#8594; 3 tiers + ROI</text>
+
+    <rect x="532" y="0" width="260" height="22" rx="4" fill="#142036" stroke="#2a3a55"/>
+    <text x="542" y="15" class="cmd">/proposal report-pdf &#8594; client PDF</text>
+
+    <rect x="0" y="30" width="250" height="22" rx="4" fill="#142036" stroke="#2a3a55"/>
+    <text x="10" y="45" class="cmd">/proposal roi &#8594; business case</text>
+
+    <rect x="266" y="30" width="250" height="22" rx="4" fill="#142036" stroke="#2a3a55"/>
+    <text x="276" y="45" class="cmd">/proposal objections &#8594; rebuttals</text>
+
+    <rect x="532" y="30" width="260" height="22" rx="4" fill="#142036" stroke="#2a3a55"/>
+    <text x="542" y="45" class="cmd">/proposal followup &#8594; close seq</text>
+  </g>
+
+  <rect x="0" y="290" width="900" height="30" fill="#070b14"/>
+  <text x="450" y="310" class="footer" text-anchor="middle">GEO  •  SEO  •  REPUTATION  •  RESTAURANT  •  RECRUITING  •  ANY SERVICE BUSINESS</text>
+</svg>
