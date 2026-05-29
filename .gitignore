@@ -14,9 +14,10 @@ venv/
 env/
 .env/
 
-# Generated proposals
-PROPOSAL-*.md
-PROPOSAL-*.pdf
+# Generated proposals (anchored to repo root so source files like
+# agents/proposal-*.md and skills/proposal-*/ are never ignored)
+/PROPOSAL-*.md
+/PROPOSAL-*.pdf
 *-sample.pdf
 
 # macOS
