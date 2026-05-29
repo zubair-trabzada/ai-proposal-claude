@@ -182,11 +182,41 @@ rm -rf ~/.claude/skills/proposal ~/.claude/skills/proposal-* ~/.claude/agents/pr
 
 ## Want to Turn This Into a Business?
 
-The tool is free. Learning how to sell these services to real businesses is where the community comes in.
+The tool is free. The proposal is the document that wins (or loses) the deal — so learning to wield it is where the real money is.
 
-**[Join the AI Workshop Community →](https://skool.com/aiworkshop)**
+### Where to Find Clients
 
-Inside you'll get video walkthroughs, a client-acquisition playbook, pricing templates, cold outreach scripts, and live office hours — the full system for running an AI-powered agency.
+1. **Anyone already running an audit tool** — pair this with the GEO/SEO/Reputation tools; the audit is the hook, the proposal is the close
+2. **Freelancers losing deals at the proposal stage** — they can pitch but their proposals are generic templates
+3. **New agencies with no proposal system** — give them a repeatable, scored process instead of starting from scratch each time
+4. **Consultants who undercharge** — the 3-tier + ROI structure anchors them to higher pricing
+5. **Service businesses bidding on RFPs** — turn a cold RFP response into a persuasive, ROI-anchored proposal
+
+### Sales Conversion Tips
+
+- **Run the audit first, then the proposal** — `/proposal build` reads the audit and builds on real findings, so the client feels understood before they're sold
+- **Show the PDF on the call** — the branded cover and highlighted RECOMMENDED tier justify the price
+- **Always present three tiers** — the top tier anchors, the middle tier closes
+- **Never quote a naked number** — every price is paired with the ROI it generates and the cost of inaction
+- **Ship the follow-up sequence with every send** — most deals are won in the follow-up, not the first email
+
+**A single won proposal at a $3,500/mo retainer = $42,000/year. A handful of these is a real business.**
+
+[Join the AI Workshop community to learn the full playbook](https://skool.com/aiworkshop)
+
+---
+
+## 🔗 Related Tools
+
+Built by the same author — all share the same Claude Code skill architecture:
+
+- [geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) — GEO + SEO audit for websites (the hook for proposals)
+- [ai-reputation-claude](https://github.com/zubair-trabzada/ai-reputation-claude) — Reputation management for any business
+- [ai-marketing-claude](https://github.com/zubair-trabzada/ai-marketing-claude) — Full marketing strategy & content
+- [ai-sales-team-claude](https://github.com/zubair-trabzada/ai-sales-team-claude) — Prospect research & sales prep
+- [ai-recruiter-claude](https://github.com/zubair-trabzada/ai-recruiter-claude) — Recruiting & hiring readiness
+- [ai-restaurant-claude](https://github.com/zubair-trabzada/ai-restaurant-claude) — Restaurant marketing & operations
+- [ai-legal-claude](https://github.com/zubair-trabzada/ai-legal-claude) — Contract review & legal docs
 
 ---
 
