@@ -182,32 +182,6 @@ rm -rf ~/.claude/skills/proposal ~/.claude/skills/proposal-* ~/.claude/agents/pr
 
 ---
 
-## Want to Turn This Into a Business?
-
-The tool is free. The proposal is the document that wins (or loses) the deal — so learning to wield it is where the real money is.
-
-### Where to Find Clients
-
-1. **Anyone already running an audit tool** — pair this with the GEO/SEO/Reputation tools; the audit is the hook, the proposal is the close
-2. **Freelancers losing deals at the proposal stage** — they can pitch but their proposals are generic templates
-3. **New agencies with no proposal system** — give them a repeatable, scored process instead of starting from scratch each time
-4. **Consultants who undercharge** — the 3-tier + ROI structure anchors them to higher pricing
-5. **Service businesses bidding on RFPs** — turn a cold RFP response into a persuasive, ROI-anchored proposal
-
-### Sales Conversion Tips
-
-- **Run the audit first, then the proposal** — `/proposal build` reads the audit and builds on real findings, so the client feels understood before they're sold
-- **Show the PDF on the call** — the branded cover and highlighted RECOMMENDED tier justify the price
-- **Always present three tiers** — the top tier anchors, the middle tier closes
-- **Never quote a naked number** — every price is paired with the ROI it generates and the cost of inaction
-- **Ship the follow-up sequence with every send** — most deals are won in the follow-up, not the first email
-
-**A single won proposal at a $3,500/mo retainer = $42,000/year. A handful of these is a real business.**
-
-[Join the AI Workshop community to learn the full playbook](https://skool.com/aiworkshop)
-
----
-
 ## 🔗 Related Tools
 
 Built by the same author — all share the same Claude Code skill architecture:
