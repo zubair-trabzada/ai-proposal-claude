@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>AI-powered proposal-writing and deal-closing engine</strong> for Claude Code.<br/>
-  Research a prospect, price the engagement, quantify ROI, pre-handle objections — and produce a client-ready PDF proposal in minutes.
+  Write a winning proposal for <strong>any service you sell</strong> — research the prospect, price the engagement, quantify ROI, pre-handle objections, and produce a client-ready PDF in minutes.
 </p>
 
 <p align="center">
@@ -28,9 +28,9 @@ Most losing proposals share four invisible failures:
 3. **No tier structure** — one take-it-or-leave-it price instead of Good-Better-Best, so there's no easy "yes"
 4. **No close plan** — the proposal gets sent into a void with no follow-up sequence
 
-The **AI Proposal Team** turns Claude Code into a full proposal department you can run from the command line. It launches **5 parallel agents** to research the client, build pricing, define scope, quantify ROI, and engineer the close — then produces a polished, client-ready PDF with a composite **Proposal Strength Score (0-100)**.
+The **AI Proposal Team** turns Claude Code into a full proposal department you can run from the command line. Sell web design, AI automation, marketing, consulting, coaching, software, GEO/SEO, design, bookkeeping — **any service**. It launches **5 parallel agents** to research the client, build pricing, define scope, quantify ROI, and engineer the close — then produces a polished, client-ready PDF with a composite **Proposal Strength Score (0-100)**.
 
-**The killer feature:** it auto-detects audit reports in your working directory (from the GEO, SEO, Reputation, Restaurant, and Recruiting Claude Code tools) and builds the proposal around the *real findings* — so the proposal lands as "this agency already understands my problem," not a cold template.
+**Optional bonus:** if you've already run another Claude Code tool (GEO, SEO, Reputation, Restaurant, Recruiting) and an audit report is sitting in the folder, the Proposal Team detects it and folds those *real findings* into the proposal automatically — so it lands as "they already understand my problem." But no audit is ever required; it works standalone for any service.
 
 ---
 
@@ -152,18 +152,20 @@ Because step 2 reads the audit from step 1, the proposal is built on the client'
 
 ---
 
-## Service Catalog & Pricing
+## Pricing — Any Service, Any Model
 
-The pricing engine ships with real agency-market rates for AI-powered services. Always three tiers; the middle is the target, the top anchors.
+The pricing engine isn't locked to one industry. It prices **any** service using whichever model fits — one-time project, monthly retainer, value/performance, or hybrid — and always builds three tiers (middle is the target, top anchors). It uses **your** rates if you have them, prices by value if you don't, and falls back to market references only as a last resort.
 
-| Service | One-Time Audit | Monthly Retainer |
-|---------|----------------|------------------|
-| GEO Optimization | $500–$2,000 | $1,500–$8,000/mo |
-| SEO | $750–$2,500 | $2,000–$10,000/mo |
-| Reputation Management | $500–$1,500 | $1,000–$5,000/mo |
-| Restaurant Marketing | $500–$1,500 | $1,500–$6,000/mo |
-| Recruiting / Hiring | $1,500–$5,000 | $3,000–$12,000/mo |
-| Local Business (bundle) | $500–$2,000 | $1,000–$5,000/mo |
+Realistic reference bands for common AI-adjacent services (used as a fallback, not a default):
+
+| Example Service | One-Time | Monthly Retainer |
+|-----------------|----------|------------------|
+| Web / landing page build | $1,500–$10,000 | — |
+| AI automation / workflow setup | $2,000–$15,000 | $500–$5,000/mo |
+| Marketing / content | $1,000–$5,000 | $2,000–$10,000/mo |
+| GEO / SEO | $500–$2,500 | $1,500–$10,000/mo |
+| Consulting / coaching | $1,500–$10,000 | $1,000–$8,000/mo |
+| Reputation / local | $500–$1,500 | $1,000–$5,000/mo |
 
 ---
 

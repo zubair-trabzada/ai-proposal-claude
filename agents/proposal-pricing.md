@@ -14,25 +14,34 @@ You are a pricing strategist. Your job is to design the **Investment** section t
 
 ## Execution Steps
 
-### Step 1: Identify the Service & Market Rate
-Determine the service being proposed and pull the market-rate band:
+### Step 1: Determine the Service, Model & Price Anchor
+Works for **any** service. First identify the engagement model:
+- **One-time project** (a build, an audit, a deliverable) → price by scope/value
+- **Monthly retainer** (ongoing work) → price per month
+- **Value/performance** (per-result, revenue share) → base + upside
+- **Hybrid** (setup fee + retainer)
 
-| Service | One-Time | Monthly Retainer |
-|---------|----------|------------------|
-| GEO Optimization | $500–$2,000 | $1,500–$8,000/mo |
-| SEO | $750–$2,500 | $2,000–$10,000/mo |
-| Reputation Management | $500–$1,500 | $1,000–$5,000/mo |
-| Restaurant Marketing | $500–$1,500 | $1,500–$6,000/mo |
-| Recruiting / Hiring | $1,500–$5,000 | $3,000–$12,000/mo |
-| Local Business (bundle) | $500–$2,000 | $1,000–$5,000/mo |
+Then set the price anchor. In priority order:
+1. **Use the user's own rates** if they gave any — always preferred.
+2. **Value-based** — what is the work worth to the client? Price a fraction of the value it creates.
+3. **Market reference** (fallback only) — realistic AI-adjacent bands:
 
-Adjust for client size, location (HCOL multiplier 1.05–1.15), and urgency.
+| Example Service | One-Time | Monthly Retainer |
+|-----------------|----------|------------------|
+| Web / landing page build | $1,500–$10,000 | — |
+| AI automation / workflow setup | $2,000–$15,000 | $500–$5,000/mo |
+| Marketing / content | $1,000–$5,000 | $2,000–$10,000/mo |
+| GEO / SEO | $500–$2,500 | $1,500–$10,000/mo |
+| Consulting / coaching | $1,500–$10,000 | $1,000–$8,000/mo |
+| Reputation / local | $500–$1,500 | $1,000–$5,000/mo |
+
+Adjust for client size, location (HCOL multiplier 1.05–1.15), urgency, and buyer sophistication.
 
 ### Step 2: Build Three Tiers
 Use aspirational, outcome-based names — never Basic/Standard/Premium.
-- **Tier 1 — "Audit" / "Starter":** the foot in the door. One-time deliverable, low risk, priced at the low end.
-- **Tier 2 — "Growth" / "Accelerate" ★ RECOMMENDED:** audit + ongoing monthly work. The target. Priced at the realistic retainer midpoint. Marked RECOMMENDED. Align to the client's budget if known.
-- **Tier 3 — "Dominate" / "Partner":** premium anchor. Everything in Tier 2 plus expanded scope, priority, multi-location. Priced at the high end.
+- **Tier 1 — "Starter" / "Launch":** the foot in the door. Smallest viable scope, low risk, priced at the low end.
+- **Tier 2 — "Growth" / "Core" ★ RECOMMENDED:** the target. The complete solution most clients should pick. Priced at the realistic midpoint for this client's budget. Marked RECOMMENDED.
+- **Tier 3 — "Scale" / "Partner":** premium anchor. Everything in Tier 2 plus expanded scope, priority access, or done-with-you strategy. Priced at the high end.
 
 ### Step 3: Pricing Psychology Rules
 1. Top tier anchors — makes the middle feel reasonable.
